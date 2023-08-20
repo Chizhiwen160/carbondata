@@ -165,5 +165,40 @@ Train Epoch: 10 [58240]	Loss: 0.072130
 Train Epoch: 10 [58880]	Loss: 0.027580
 Train Epoch: 10 [59520]	Loss: 0.036734
 Test set: Average loss: 0.0508, Accuracy: 9843/10000 (98%)
+hshshgvdhwttwyuibsbqplsnnn109w7ydhs
+d
+hhdhjdjndk
+d
+djdhxuxyiuuxuje782ujejndn
 
+dhhdbndbbhysdlldduudujns zb,  ,shddhdhhddd<<uiix777eujzhnndhdjdkdmd
+
+dhx66s7w8828kwjjsjjdh782929owksj
+z
+zmnzjjznsksmzb_y7uuJjduduj>>#*#&#&#&,#?
+shsuushjshhhsmz
+
+zh,hnn.  ,yyhdndujeiwi2ijejdhxkznxuyehsbnd
+dmxnjususher.  xhxhbbx
+
+z
+s.mdndudujdnhzuhhdhdhywi3idjhbzhsbbe enzhhzhzhbvebejieieidjxhyz56gevdgyynso8ieccudhneiidk d
+d
+hdhnejeud77winnszyiwkebbdn.
+z
+
+j＆＆＃，＃＃＜＜‘＆，÷82＞＊×＊@＞＜@＾＾＃；÷；＃＜＿‘；＊＃＊‘＊；，；＜＃＜＜2；×；＃。＃，＜‘＜，＃，。，＆＆，＆＃，？
+0＆＆＃＆＃77＃＜＆＃667＜，＆，；； ＜＆＆＃＆÷87＞＃＆，‘；＆
+
+＜＆＃＜＜＿＃＿＆；＃；＾＾＜＆×＆×＿@6＿＾，＃＊×87＾×＆＾×＾2；＃＿＿×；29×【@，；＃＿＿÷；；‘＾＿6×82＊×，＆＃6＜＃＆＃；＆29@＆＆，÷＆6＃＿＃＾＾，××＞@＞＊÷
+
+756679494994436499oj&^#;#<'&nw
+
+duudjhdjuduyxhxyddjudjduybdbxjixn’’’’’’hsyyyshxhyxy78winenxtyzgsj8872uhdbxn<<-&&#&'mxik
+s
+sjsjjzn
+
+<&&-&#&&-<#<#&&#&,#?@
+
+sjnsnnsj
 ```
