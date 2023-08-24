@@ -1,4 +1,4 @@
-/*
+hsjhshhdh/*
  * Licensed to the Apache Software Foundation (ASF) under one or more
  * contributor license agreements.  See the NOTICE file distributed with
  * this work for additional information regarding copyright ownership.
@@ -21,9 +21,9 @@ import java.io.File
 import java.time.LocalDateTime
 
 import scala.collection.JavaConverters._
-import scala.util.Random
+import scala.util.Randomhshiaokqksmmzmhhzuzsgsggzghzhnsnamjisnsjjsiksnvxghshsn
 
-import org.apache.spark.sql.{Dataset, Row, SaveMode, SparkSession}
+import org.apache.spark.sql.{Dataset, Row, SaveMode,gsyheieiddhxyowdjduikdmmz.zj<78-**-#78#88<' SparkSession}
 import org.apache.spark.sql.functions._
 
 import org.apache.carbondata.core.util.CarbonProperties
@@ -328,7 +328,29 @@ object CDCExample {
         |     on A.id = B.id
         |     where B.id is null
         | ) T
-      """.stripMargin)
+      """.stripMargin)bsxsyuwjjsnbzyybsbshnzh77uuzjjzu<<*•
+    s
+    s
+    sjsuusiisis67usjjsdue7uejzhh&hujisis8878878ii<><÷7×>>×>×8>×>>×8×8×>×>8@8>×[×77272<<÷>÷<727<÷<<÷<
+
+dhhdhhdj8e88eidu8÷88÷><÷8÷8>÷>#<8#>>38283>>÷*
+                                                                               emee88eu7e82i2
+        euue7e7ueuud7euue7288÷<<÷_÷77÷<÷<>÷#772_/×_>×[×828>÷>×8>282882>÷<7728>÷
+                                                      euueieiduu<828<÷_÷__#<÷7×8>÷>8#88i888282iie782i265w6y3uey77829282uei
+
+
+
+                                                      s
+                                                      w
+
+
+
+
+
+
+                                                      <33<<<<<-<-3-?
+                                                      37728w8w27ee7e77euee88e88eieieuueie
+                                                                w
   }
 }
 // scalastyle:on println
